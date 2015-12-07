@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#C2185B</color>
+    <color name="material_teal">@color/material_deep_teal_500</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_dark">#CCCC00</color>
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="orange">#FFA500</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_disabled">#44000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+    <color name="transparent_black">#7F000000</color>
+    <color name="theme_primary">#0a0</color>
+    <color name="theme_primary_dark">#2E7D32</color>
+    <color name="theme_primary_light">#7986cb</color>
+    <color name="accent">#E91E63</color>
+    <color name="accent_pressed">#C2185B</color>
+    <color name="theme_accent_1">#00b0ff</color>
+    <color name="theme_accent_1_light">#8ad4fa</color>
+    <color name="primary">#0a0</color>
+    <color name="theme_accent_2">#e91e63</color>
+
+    <color name="all_track_color">#ff222222</color>
+    <color name="home_pane_header">#99000000</color>
+
+    <color name="sliding_pane_content_fade">#cceeeeee</color>
+    <color name="sticky_block_background">#ddffffff</color>
+
+    <color name="map_info_1">#ff000000</color>
+    <color name="map_info_2">#ff777777</color>
+    <color name="map_floorselect_active">#FF000000</color>
+    <color name="map_floorselect_inactive">#FF333333</color>
+
+    <color name="gray_background">#e5e5e5</color>
+    <color name="dark_divider">#32000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="navdrawer_background">#ffffffff</color>
+    <color name="navdrawer_text_color">@color/body_text_1</color>
+    <color name="navdrawer_text_color_selected">@color/theme_primary</color>
+    <color name="navdrawer_icon_tint">#888</color>
+    <color name="navdrawer_icon_tint_selected">@color/theme_primary</color>
+
+    <color name="refresh_progress_1">@color/theme_accent_2</color>
+    <color name="refresh_progress_2">@color/theme_accent_1</color>
+    <color name="refresh_progress_3">@color/theme_primary</color>
+
+    <color name="data_item_background_light">#ffffff</color>
+    <color name="data_item_lightbg_title">#404040</color>
+    <color name="data_item_lightbg_body_text">#707070</color>
+    <color name="data_item_lightbg_dim_text">#e0e0e0</color>
+
+    <color name="session_photo_scrim">#6000</color>
+
+    <color name="default_session_color">@color/theme_primary</color>
+    <color name="no_track_branding_session_tile_overlay">#8333</color>
+    <color name="no_track_branding_session_color">#333</color>
+
+    <color name="nearby_header_color">#0a0</color>
+    <color name="nearby_url_color">#0a0</color>
+    <color name="nearby_description_color">@color/body_text_2</color>
+    <color name="preamped_green">#ff8cc63e</color>
+    <color name="transluscent_green">#CC8cc63e</color>
+
+    <color name="list_dropdown_divider_color">#92a3a3a3</color>
+    <color name="butter_bar_light">#eee0e0e0</color>
+    <color name="absa_red">#D00505</color>
+    <color name="translucent_actionbar_background">#0a0</color>
+    <color name="translucent_statusbar_background">#0a0</color>
+    <color name="black">#000000</color>
+    <color name="tab_background">@color/theme_primary</color>
+    <color name="tab_selected_strip">@color/theme_accent_1</color>
+
+    <color name="my_schedule_conflict">#db4437</color>
+    <color name="selectable_focused">#22FFFFFF</color>
+    <color name="selectable_pressed">#55FFFFFF</color>
+    <color name="circle_background">#fff2f2f2</color>
+    <color name="line_background">#ffcccccc</color>
+    <color name="done_text_color_normal">#ff333333</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <color name="blue">#00b0ff</color>
+    <color name="darker_blue">#ff0099cc</color>
+    <color name="date_picker_text_normal">#ff999999</color>
+    <color name="calendar_header">#ff999999</color>
+    <color name="date_picker_view_animator">#fff2f2f2</color>
+    <color name="darker_green">#2E7D32</color>
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+    <color name="grey2">#A9A9A9</color>
+    <!--<color name="content_light">#5E5E5E</color>-->
+    <!--<color name="content_dark">#EDEDED</color>-->
+    <!--<color name="item_light">#535353</color>-->
+    <!--<color name="item_dark">#EDEDED</color>-->
+    <!--<color name="button_light">#3C3C3D</color>-->
+    <!--<color name="button_dark">#FFFFFF</color>-->
+    <color name="btn_context_menu_normal">#ffffff</color>
+    <color name="btn_context_menu_pressed">#40000000</color>
+    <color name="btn_context_menu_text_red">#ffff0000</color>
+    <color name="md_btn_selected">#33969696</color>
+    <color name="md_btn_selected_dark">#40CBCBCB</color>
+    <color name="player_overlay">#55000000</color>
+    <color name="beamplayer_seekbar_track">#2A2E30</color>
+    <color name="md_divider_black">#10000000</color>
+    <color name="md_divider_white">#10FFFFFF</color>
+
+    <color name="md_material_blue_600">#1E88E5</color>
+    <color name="md_material_blue_800">#1565C0</color>
+
+    <color name="md_edittext_error">#DD2C00</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+
+
+</resources>
